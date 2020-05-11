@@ -32,3 +32,4 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 | :---------------- | :---------------: | ------------------: |
 | Load the page | **On page load** | Get all blogs, Select between signup and login|
 | Select SignUp| **Email**,**Username**,**Password** | Redirect to login|
+| Select Login | **Username** and **password** | Redirect to page with blogs that have been posted by writes and be able to subscribe to the blog|
