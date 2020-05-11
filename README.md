@@ -25,3 +25,8 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 * As a writer, I would like to sign in to the blog.
 * As a writer, I would also like to create a blog from the application.
 * As a writer, I would like to delete comments that I find insulting or degrading.
+* As a writer, I would like to update or delete blogs I have created.
+
+## BDD
+| Behaviour | Input | Output |
+| :---------------- | :---------------: | ------------------: |
