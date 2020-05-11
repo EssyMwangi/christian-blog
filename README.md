@@ -21,3 +21,4 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 * As a user, I would like to comment on blog posts.
 * As a user, I would like to view the most recent posts.
 * As a user, I would like to an email alert when a new post is made by joining a subscription.
+* As a user, I would like to see random quotes on the site.
