@@ -36,3 +36,48 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 | Select comment button | **Comment** | Form that you input your comment|
 | Click on submit |  | Redirect to all comments tamplate with your comment and other comments|
 |Subscription | **Email Address**| Flash message "Succesfully subsbribed to Christian-Blog"|
+
+## Development Installation
+To get the code..
+
+1. Cloning the repository:
+  ```bash
+  https://github.com/EssyMwangi/christian-blog
+  ```
+2. Move to the folder and install requirements
+  ```bash
+  cd blog
+  pip install -r requirements.txt
+  ```
+3. Exporting Configurations
+  ```bash
+  export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@localhost/{database name}
+  ```
+4. Running the application
+  ```bash
+  python manage.py server
+  ```
+5. Testing the application
+  ```bash
+  python manage.py test
+  ```
+Open the application on your browser `127.0.0.1:5000`.
+
+
+## Technology used
+
+* [Python3.7](https://www.python.org/)
+* [Flask](http://flask.pocoo.org/)
+* [Heroku](https://heroku.com)
+
+
+## Known Bugs
+* There are no known bugs currently but pull requests are allowed incase you spot a bug
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [sonnieessy@gmail.com]
+
+## License
+* _MIT License:_[LICENSE MIT](./LICENSE)
+* Copyright (c) 2019 **Essy Mwangi**
