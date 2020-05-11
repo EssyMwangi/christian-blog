@@ -30,3 +30,5 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 ## BDD
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
+| Load the page | **On page load** | Get all blogs, Select between signup and login|
+| Select SignUp| **Email**,**Username**,**Password** | Redirect to login|
