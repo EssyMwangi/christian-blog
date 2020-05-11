@@ -18,3 +18,4 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 ## User Story
 
 * As a user, I would like to view the blog posts on the site.
+* As a user, I would like to comment on blog posts.
