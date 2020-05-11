@@ -14,3 +14,7 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 <img src="" width="900px" height="440px">
 <img src="" width="900px" height="440px">
 <img src="" width="900px" height="440px">
+
+## User Story
+
+* As a user, I would like to view the blog posts on the site.
